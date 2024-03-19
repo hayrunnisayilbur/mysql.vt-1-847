@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\bin\Debug\mysql.vt-1-847.exe.config
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\bin\Debug\mysql.vt-1-847.exe
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\bin\Debug\mysql.vt-1-847.pdb
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt-1-847.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt-1-847.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt_1_847.Form1.resources
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt_1_847.Properties.Resources.resources
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt-1-847.csproj.GenerateResource.cache
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt-1-847.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt-1-847.csproj.CopyComplete
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt-1-847.exe
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt-1-847.pdb
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt_1_847.FormElestiri.resources
+C:\Users\User\source\repos\mysql.vt-1-847\mysql.vt-1-847\obj\Debug\mysql.vt_1_847.FormFilmElestiri.resources
